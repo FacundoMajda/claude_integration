@@ -2,18 +2,19 @@
 
 ## About
 
-Este proyecto es un servidor básico hecho con TypeScript, utilizando Express para el manejo de solicitudes HTTP. El propósito principal de este servidor es interactuar con la API de Anthropic AI - Claude y sus modelos LLM. <br> <br>
+Este proyecto es un servidor básico hecho con TypeScript, utilizando Express para el manejo de solicitudes HTTP. El propósito principal de este servidor es interactuar con la API de Anthropic AI - Claude y sus modelos LLM.
+
 En este caso se utilizó el nuevo modelo de Anthropic: Claude 2.1 que posee una ventana de contexto de 200k tokens
 
 ## Pre-Requisitos 
 
-Para utilizar este servidor, debes formar parte de la beta cerrada de Anthropic AI, al menos hasta la fecha (febrero 2024).  <br> <br>
+Para utilizar este servidor, debes formar parte de la beta cerrada de Anthropic AI, al menos hasta la fecha (febrero 2024).
+
 Esto te dará acceso a la consola de Claude, que es necesaria para obtener la clave de API que el servidor utiliza para interactuar con la API de Claude.
 
-## Docs: 
-```bash
-https://docs.anthropic.com/claude/reference/getting-started-with-the-api
-```
+## Docs
+
+[Getting Started with the API](https://docs.anthropic.com/claude/reference/getting-started-with-the-api)
 
 ## Instalación
 
